@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Ben Can</h1>
-<h3 align="center">Yönetim Bilişim Sistemleri 4.sınıf öğrencisiyim. Genel olarak Front-end alanında çalışmalar yürütüyorum.Özellikle 3 boyutlu websiteleri,web3 teknoloji alanlarında çalışmalar üretiyorum/üreteceğim.Ayrıca Veri Bilimi yapay zeka alanları ile ilgileniyorum.</h3>
+<h3 align="center">Düz Yazılımcı Dikey Hayalci</h3>
 
 - 🔭 Şu anda farklı bir proje ile ilgileniyorum proje ismi: **Mimarlık Tanıtım Websitesi**
 
