@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba Ben Can</h1>
 <h3 align="center">Düz Yazılımcı Dikey Hayalci</h3>
 
-- 🔭 Şu anda farklı bir proje ile ilgileniyorum proje ismi: **Mimarlık Tanıtım Websitesi**
+- 🔭 Şu anda farklı bir proje ile ilgileniyorum proje ismi: **NextJs ile E-Ticaret Sistemi**
 
 - 💬 Bana Soru Sor **react,python**
 
