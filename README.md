@@ -32,3 +32,7 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />  </a>
 </p>
+
+ <a><img alt="canzz0's Github Stats" src="https://github-readme-stats.vercel.app/api?username=canzz0&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="192px"/></a>
+<a><img alt="canzz0's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canzz0&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="192px"/></a>
+
